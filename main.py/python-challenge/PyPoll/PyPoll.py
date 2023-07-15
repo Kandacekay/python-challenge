@@ -3,7 +3,7 @@ import csv
 import collections 
 import sys                                                                
 #opening csv file:
-path = "C://Users//kayvb//OneDrive//Desktop//main.py//python-challenge//PyPoll//Resources"
+path = "Resources"
 file_name = 'election_data.csv'
 file_path = os.path.join(path, file_name)
 with open (file_path) as file:            
