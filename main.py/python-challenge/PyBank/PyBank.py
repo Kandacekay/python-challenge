@@ -7,7 +7,7 @@ import csv
 
     
 #Creating path for csv:
-path = "G://My Drive//Starter_Code//PyBank//Resources"
+path = "Resources"
 file_name= 'budget_data.csv'
 file_path= os.path.join(path,file_name)
 #Reads csv:
